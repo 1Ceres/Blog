@@ -2,6 +2,9 @@
     padding-top: 70px;
     padding-bottom: 70px;
 }
+.input-group{
+  width: 100%;
+}
 .navbar {
     padding-top: 15px;
     padding-bottom: 15px;
@@ -14,7 +17,9 @@
 .navbar-nav  li a:hover {
     color: #1abc9c !important;
 }
-
+.btn{
+  margin-top: 3%;
+}
 .footer-padding {
 	padding-bottom: 60px;
 }
